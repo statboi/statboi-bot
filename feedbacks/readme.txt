@@ -1,0 +1,1 @@
+Feedbacks from users are stored in this folder
