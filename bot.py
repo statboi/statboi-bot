@@ -12,7 +12,7 @@ from emoji import emojize
 from discord_slash import SlashCommand
 from discord_slash import manage_commands
 
-TOKEN = 'ODAxMTEwOTM0NTcxNTgxNDcw.YAb6sg.Ar7TbZlte0gsqE8R6GhN7TTnLGI'
+TOKEN = 'TOKEN_HERE'
 intents = discord.Intents.default()
 intents.members = True
 bot = commands.Bot(command_prefix = 's$', intents=intents)
